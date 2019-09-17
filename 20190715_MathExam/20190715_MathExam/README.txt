@@ -1,0 +1,1 @@
+width should be resized to 1000px
